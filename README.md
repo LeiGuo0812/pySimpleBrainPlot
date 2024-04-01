@@ -1,7 +1,6 @@
 # pySimpleBrainPlot
 
-This package is the python version of matlab package Simple-Brain-Plot contributed by Scholtens, Lianne H, de Lange, Siemon C, and van den Heuvel, Martijn P. The original matlab package can be found at: 
-https://github.com/dutchconnectomelab/Simple-Brain-Plot
+This package is the python version of [matlab package Simple-Brain-Plot](https://github.com/dutchconnectomelab/Simple-Brain-Plot) contributed by Scholtens, Lianne H, de Lange, Siemon C, and van den Heuvel, Martijn P.
 
 Atlases available
 ---
